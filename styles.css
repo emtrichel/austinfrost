@@ -28,7 +28,9 @@ nav ul li a {
 
 /* Style footer */
 footer {
-    background-color: #de685c;
-    padding: 20px;
+    background-color: #333;
+    color: #333;
     text-align: center;
+    padding: 10px 0;
+    width: 100%;
 }

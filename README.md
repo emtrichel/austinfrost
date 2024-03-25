@@ -15,4 +15,4 @@ VSCode used for IDE.
 
 At this time, no additional contributors are needed or wanted.
 
-copy& 2024 Eric Trichel
+&copy 2024 Eric Trichel
