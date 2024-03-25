@@ -1,0 +1,34 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:   #de685c  ;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* Style navigation */
+nav ul {
+    list-style-type:none;
+    padding-bottom: 1in ;
+    padding-top: .25in;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+}
+
+/* Style footer */
+footer {
+    background-color: #de685c;
+    padding: 20px;
+    text-align: center;
+}
