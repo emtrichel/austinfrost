@@ -1,6 +1,7 @@
 # Austin Frost - Voice Actor
 Austin Frost is an American voice actor
-Web version 1.0
+Web version 1.3
+www.austinfrost.net
 
 Austin Frost (the Client) needed a website to showcase samples of his work and gain leads for new projects. The Client provided media samples to be showcased. 
 
