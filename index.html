@@ -31,6 +31,45 @@
             padding: 10px 0;
             width: 100%;
         }
+        .banner {
+            position: relative;
+            text-align: center;
+            color: white;
+            background-image: url("Images/studio2.jpg");
+            background-size: cover;
+            background-position: center;
+            background-color: transparent;
+            height: 400px; /* Adjust the height as needed */
+        }
+
+        .banner-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: transparent;
+        }
+
+        .banner-text h1 {
+            font-size: 24px;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-bottom: 20px; 
+            background-color: transparent;
+        }
+
+        .banner-cta {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .banner-cta:hover {
+            background-color: #0056b3;
+        }
     </style>
 </head>
 
@@ -49,6 +88,14 @@
             <li><a href="services.html">Services</a></li>
         </ul>
     </nav>
+    <div class="banner">
+        <div class="banner-content">
+            <div class="banner-text">
+                <h1>Discover the Voice That Brings Stories to Life</h1>
+                <a href="contact.html" class="banner-cta">Listen to Samples</a>
+            </div>
+        </div>
+    </div>
     <div class="main">
         <p>Welcome to the captivating world of Austin Frost, where every word comes to life with passion, precision, and power.</p><br>
             <p>As an American voice talent actor, Austin Frost brings a unique blend of charisma, versatility, and professionalism to every project he touches.</p><br>
